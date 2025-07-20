@@ -1,6 +1,10 @@
 
 # 📘 Anotações de Estudo: Formatações Adicionais em HTML
 
+📅 Criado em: **20 de julho de 2025**  
+📚 Matéria:**Programação Web (HTML5 e CSS3)**  
+✍️ Autor: **Marco**
+
 ## 1. Introdução: Além do Básico
 
 Além dos títulos, parágrafos, negrito e itálico, o HTML oferece várias tags que ajudam a dar mais **significado** ao conteúdo e a exibir informações de formas específicas. Vamos conhecer algumas dessas formatações.
